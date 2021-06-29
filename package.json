@@ -1,0 +1,23 @@
+{
+  "name": "jch_candy-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjisi/jch_candy-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjisi/jch_candy-test/issues"
+  },
+  "homepage": "https://github.com/wjisi/jch_candy-test#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jcc_exchange": "^3.1.16"
+  }
+}
